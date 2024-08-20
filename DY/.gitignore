@@ -167,5 +167,6 @@ $RECYCLE.BIN/
 *.lnk
 
 ./*.iml
+./*.xml
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,intellij,java
