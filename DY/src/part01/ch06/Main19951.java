@@ -30,7 +30,7 @@ public class Main19951 {
             arr2[end + 1] -= num;
         }
         for (int i = 1; i <= n; i++) {
-            arr2[i] += arr2[i - 1];
+            arr2[i] += arr2[i - 1]; //
         }
 
         for (int i = 1; i <= n; i++) {
